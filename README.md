@@ -45,9 +45,6 @@ As a Certified Associate Data Scientist and AI/ML Engineer, I combine my experti
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="32" style="vertical-align:middle; margin-right:8px;"/>
 </a>
 
-- **Email:** [Bashirhabib01@gmail.com](mailto:Bashirhabib01@gmail.com)
-- **WhatsApp:** [+234 814 953 5954](https://wa.me/2348149535954)
-
 ---
 
 ## ⚽ Hobbies
