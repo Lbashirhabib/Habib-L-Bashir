@@ -1,4 +1,4 @@
-<img src="https://github.com/Lbashirhabib.png" width="150" alt="Habib Bashir Lawal"/>
+<img src="https://github.com/Lbashirhabib.png" width="150" alt="Habib Bashir Lawal" style="border-radius: 50%;"/>
 # Hi, I'm Habib Bashir Lawal 👋
 
 **B.Eng Electrical (in view) | Certified Associate Data Scientist | AI/ML Engineer | CS50x Certified | Member NSE & IAENG | Sustainable Innovative Advocate | Entrepreneur**
