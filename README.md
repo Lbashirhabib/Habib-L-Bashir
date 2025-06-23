@@ -1,23 +1,45 @@
 <img src="https://github.com/Lbashirhabib.png" width="150" alt="Habib Bashir Lawal" style="border-radius: 50%;"/>
 # Hi, I'm Habib Bashir Lawal 👋
 
-**B.Eng Electrical (in view) | Certified Associate Data Scientist | AI/ML Engineer | CS50x Certified | Member NSE & IAENG | Sustainable Innovative Advocate | Entrepreneur**
+**Data Scientist || ML Specialist || Deep Learning (NLP Focus) || B.Eng Electrical (in view) || Member NSE & IAENG || Entrepreneur.**
 
 ---
 
 ## 👨‍🎓 About Me
 
-I am an Electrical Engineering student at ADUSTECH Wudil with a strong passion for leveraging data to drive innovation and solve real-world problems.  
-Currently, I am a **Fellow of ProjectStake Academy** and work part-time with **Polladium Organization** as an Administrative Support. I have also served as an Adhoc Staff for the **NPPC Demarcation Exercise**.  
-As a Certified Associate Data Scientist and AI/ML Engineer, I combine my expertise in engineering and analytics to deliver impactful solutions. I am also an active member of professional bodies including the Nigerian Society of Engineers (NSE) and the International Association of Engineers (IAENG).
+Here’s a polished, honest, and professional **"About Me"** section for your LinkedIn profile that incorporates all your details while showcasing your expertise and aspirations:
+
+---
+
+### **About Me**  
+**Data Scientist | ML Specialist | Deep Learning (NLP Focus)**  
+
+I am a **certified Associate Data Scientist** (DataCamp) with a strong foundation in **machine learning** and a growing specialization in **NLP and deep learning**. Currently pursuing my **B.Eng in Electrical Engineering**, I combine technical knowledge with hands-on experience in building AI models, including **voice assistants (Nexzi VA)**, predictive systems, and data-driven solutions.  
+
+**My Journey:**  
+- 🎓 **Certified** in **CS50x Computer Science** (Harvard/edX) and **3MTT Fellow** (Cohort 3, Data Science Track)  
+- 🤖 **Hands-on ML/DL**: Work with real-world datasets, fine-tune models, and experiment with **NLP (transformers, LLMs, text generation)**  
+- 🚀 **Entrepreneurial Mindset**: Built **Nexzi VA** (AI voice assistant) and explore AI’s potential in business applications  
+- 🔍 **Open to Collaboration**: Keen on contributing to **NLP research, industry projects, or open-source initiatives**  
+- 🌟 **Seeking Opportunities**: Actively looking for **internships or industry roles** where I can apply my skills in **ML, deep learning, and NLP**  
+
+**Let’s Connect If You Need:**  
+- A **passionate junior data scientist** for your team  
+- A **collaborator** on NLP/ML projects  
+- Guidance on **breaking into AI/Data Science** (I share my learning journey!)  
+
+*"Turning data into intelligence—one model at a time."*  
 
 ---
 
 ## 🛠 Top Skills
 
 - **Python**
+- **Git and Github**
+- **SQL and NoSQL**
+- **Data Analysis and Visualization*
 - **Machine Learning**
-- **Git**
+- **Deep Learning (NLP Focus)**
 
 ---
 
